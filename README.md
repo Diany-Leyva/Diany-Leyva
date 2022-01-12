@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diany9012
+- 👋 Hi, I’m @Diany-Leyva
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning C++, C# and Java.
 - 💞️ I’m looking to collaborate on any project that will help me gain experience and develop my skills.
